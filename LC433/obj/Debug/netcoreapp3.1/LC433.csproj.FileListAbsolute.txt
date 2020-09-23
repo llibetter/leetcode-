@@ -1,0 +1,13 @@
+D:\study\leetcode力扣天天一题\LC433\bin\Debug\netcoreapp3.1\LC433.exe
+D:\study\leetcode力扣天天一题\LC433\bin\Debug\netcoreapp3.1\LC433.deps.json
+D:\study\leetcode力扣天天一题\LC433\bin\Debug\netcoreapp3.1\LC433.runtimeconfig.json
+D:\study\leetcode力扣天天一题\LC433\bin\Debug\netcoreapp3.1\LC433.runtimeconfig.dev.json
+D:\study\leetcode力扣天天一题\LC433\bin\Debug\netcoreapp3.1\LC433.dll
+D:\study\leetcode力扣天天一题\LC433\bin\Debug\netcoreapp3.1\LC433.pdb
+D:\study\leetcode力扣天天一题\LC433\obj\Debug\netcoreapp3.1\LC433.csprojAssemblyReference.cache
+D:\study\leetcode力扣天天一题\LC433\obj\Debug\netcoreapp3.1\LC433.AssemblyInfoInputs.cache
+D:\study\leetcode力扣天天一题\LC433\obj\Debug\netcoreapp3.1\LC433.AssemblyInfo.cs
+D:\study\leetcode力扣天天一题\LC433\obj\Debug\netcoreapp3.1\LC433.csproj.CoreCompileInputs.cache
+D:\study\leetcode力扣天天一题\LC433\obj\Debug\netcoreapp3.1\LC433.dll
+D:\study\leetcode力扣天天一题\LC433\obj\Debug\netcoreapp3.1\LC433.pdb
+D:\study\leetcode力扣天天一题\LC433\obj\Debug\netcoreapp3.1\LC433.genruntimeconfig.cache
