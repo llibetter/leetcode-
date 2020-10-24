@@ -20,7 +20,7 @@ using System;
 现在我们手上有 [0,2] + [2,8] + [8,10]，而这些涵盖了整场比赛 [0, 10]。
 */
 
-//DP或贪心，DP比较好理解，贪心真的难想，掏底了，我写不出贪心😢😢😢
+//DP或贪心，DP比较好理解，贪心真的难想，摊牌了，我写不出贪心😢😢😢
 public class Solution
 {
     public int VideoStitching111(int[][] clips, int T)
