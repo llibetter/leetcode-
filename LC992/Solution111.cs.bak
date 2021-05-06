@@ -1,0 +1,45 @@
+using System.Collections.Generic;
+using System;
+public class TreeNode
+{
+    public int value;
+    public TreeNode left;
+    public TreeNode right;
+
+    public TreeNode(int v)
+    {
+        value = v;
+    }
+}
+public class MultiTreeNode
+{
+    public int value;
+    public List<MultiTreeNode> children;
+
+    public MultiTreeNode(int v)
+    {
+        value = v;
+        children = new List<MultiTreeNode>();
+
+    }
+}
+public class Solution
+{
+    public TreeNode Print(MultiTreeNode root)
+    {
+        if(root==null) return null;
+        TreeNode result=new TreeNode(root.value);
+        if(root.children.Count==0) return result;
+        int cnt=root.children.Count;
+        TreeNode node=Print(root.children[0]);
+        result.left=node;
+        TreeNode p=node;
+        for(int i=1;i<cnt;i++)
+        {
+            p.right=Print(root.children[i]);
+            p=p.right;
+        }     
+        result.left=node;
+        return result;
+    }
+}
